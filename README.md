@@ -1,7 +1,7 @@
 # nosmoke
 금연관리앱
 
-![image](https://user-images.githubusercontent.com/24298382/174220541-7a88330a-b4ad-4691-a1d8-286b813d553a.png)
+![image](https://user-images.githubusercontent.com/24298382/174220541-7a88330a-b4ad-4691-a1d8-286b813d553a.png)  
 https://csslick.github.io/nosmoke/
 
 ## 주요내용 및 기능(추가예정)
